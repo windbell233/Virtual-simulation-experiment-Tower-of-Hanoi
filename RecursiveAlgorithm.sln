@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveAlgorithm.Plugins", "RecursiveAlgorithm.Plugins.csproj", "{36B9EC7E-4655-7101-58F2-5403B2F5B6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveAlgorithm", "RecursiveAlgorithm.csproj", "{259721FB-B090-03A6-BAFF-E0EBA957FCA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveAlgorithm.Editor", "RecursiveAlgorithm.Editor.csproj", "{53C20A87-392C-8EF8-03CC-2C7D69C87522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B9EC7E-4655-7101-58F2-5403B2F5B6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B9EC7E-4655-7101-58F2-5403B2F5B6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B9EC7E-4655-7101-58F2-5403B2F5B6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B9EC7E-4655-7101-58F2-5403B2F5B6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259721FB-B090-03A6-BAFF-E0EBA957FCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259721FB-B090-03A6-BAFF-E0EBA957FCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259721FB-B090-03A6-BAFF-E0EBA957FCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259721FB-B090-03A6-BAFF-E0EBA957FCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C20A87-392C-8EF8-03CC-2C7D69C87522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C20A87-392C-8EF8-03CC-2C7D69C87522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C20A87-392C-8EF8-03CC-2C7D69C87522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C20A87-392C-8EF8-03CC-2C7D69C87522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

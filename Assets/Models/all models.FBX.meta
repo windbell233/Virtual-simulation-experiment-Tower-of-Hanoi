@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 0da62c648a2f16442aba152ee0fd0f3a
+timeCreated: 1524827224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: auido
+    100004: auido2
+    100006: blackboard
+    100008: bookcase
+    100010: Circle003
+    100012: Cylinder007
+    100014: Cylinder008
+    100016: Cylinder009
+    100018: Cylinder010
+    100020: Cylinder011
+    100022: Cylinder012
+    100024: desk
+    100026: desk gless
+    100028: door glass
+    100030: door glass001
+    100032: door line
+    100034: door line 003
+    100036: door line 2
+    100038: door line001
+    100040: door round
+    100042: door round001
+    100044: floor
+    100046: light 1
+    100048: light 2
+    100050: little light
+    100052: modify line
+    100054: shelf
+    100056: shelf2
+    100058: tip wall 003
+    100060: wall
+    100062: wall decoration
+    100064: window glass
+    100066: window kuang
+    400000: //RootNode
+    400002: auido
+    400004: auido2
+    400006: blackboard
+    400008: bookcase
+    400010: Circle003
+    400012: Cylinder007
+    400014: Cylinder008
+    400016: Cylinder009
+    400018: Cylinder010
+    400020: Cylinder011
+    400022: Cylinder012
+    400024: desk
+    400026: desk gless
+    400028: door glass
+    400030: door glass001
+    400032: door line
+    400034: door line 003
+    400036: door line 2
+    400038: door line001
+    400040: door round
+    400042: door round001
+    400044: floor
+    400046: light 1
+    400048: light 2
+    400050: little light
+    400052: modify line
+    400054: shelf
+    400056: shelf2
+    400058: tip wall 003
+    400060: wall
+    400062: wall decoration
+    400064: window glass
+    400066: window kuang
+    2300000: auido
+    2300002: auido2
+    2300004: blackboard
+    2300006: bookcase
+    2300008: Circle003
+    2300010: Cylinder007
+    2300012: Cylinder008
+    2300014: Cylinder009
+    2300016: Cylinder010
+    2300018: Cylinder011
+    2300020: Cylinder012
+    2300022: desk
+    2300024: desk gless
+    2300026: door glass
+    2300028: door glass001
+    2300030: door line
+    2300032: door line 003
+    2300034: door line 2
+    2300036: door line001
+    2300038: door round
+    2300040: door round001
+    2300042: floor
+    2300044: light 1
+    2300046: light 2
+    2300048: modify line
+    2300050: shelf
+    2300052: shelf2
+    2300054: tip wall 003
+    2300056: wall
+    2300058: wall decoration
+    2300060: window glass
+    2300062: window kuang
+    3300000: auido
+    3300002: auido2
+    3300004: blackboard
+    3300006: bookcase
+    3300008: Circle003
+    3300010: Cylinder007
+    3300012: Cylinder008
+    3300014: Cylinder009
+    3300016: Cylinder010
+    3300018: Cylinder011
+    3300020: Cylinder012
+    3300022: desk
+    3300024: desk gless
+    3300026: door glass
+    3300028: door glass001
+    3300030: door line
+    3300032: door line 003
+    3300034: door line 2
+    3300036: door line001
+    3300038: door round
+    3300040: door round001
+    3300042: floor
+    3300044: light 1
+    3300046: light 2
+    3300048: modify line
+    3300050: shelf
+    3300052: shelf2
+    3300054: tip wall 003
+    3300056: wall
+    3300058: wall decoration
+    3300060: window glass
+    3300062: window kuang
+    4300000: wall
+    4300002: floor
+    4300004: modify line
+    4300006: light 1
+    4300008: Cylinder007
+    4300010: Cylinder008
+    4300012: Cylinder009
+    4300014: Cylinder010
+    4300016: Cylinder011
+    4300018: Cylinder012
+    4300020: tip wall 003
+    4300022: desk
+    4300024: wall decoration
+    4300026: blackboard
+    4300028: bookcase
+    4300030: auido2
+    4300032: shelf2
+    4300034: shelf
+    4300036: auido
+    4300038: desk gless
+    4300040: light 2
+    4300042: door line
+    4300044: door glass
+    4300046: door round
+    4300048: door line 2
+    4300050: door line001
+    4300052: door glass001
+    4300054: door round001
+    4300056: door line 003
+    4300058: window kuang
+    4300060: window glass
+    4300062: Circle003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

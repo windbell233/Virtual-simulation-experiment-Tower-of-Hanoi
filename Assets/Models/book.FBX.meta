@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: aa35b6e241e99c447bf5cf09200ac437
+timeCreated: 1525622304
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: books_obj_480
+    100004: books_obj_481
+    100006: books_obj_482
+    100008: books_obj_483
+    100010: books_obj_484
+    100012: books_obj_485
+    100014: books_obj_486
+    100016: books_obj_487
+    100018: books_obj_488
+    100020: books_obj_489
+    100022: books_obj_490
+    100024: books_obj_491
+    100026: books_obj_492
+    400000: //RootNode
+    400002: books_obj_480
+    400004: books_obj_481
+    400006: books_obj_482
+    400008: books_obj_483
+    400010: books_obj_484
+    400012: books_obj_485
+    400014: books_obj_486
+    400016: books_obj_487
+    400018: books_obj_488
+    400020: books_obj_489
+    400022: books_obj_490
+    400024: books_obj_491
+    400026: books_obj_492
+    2300000: books_obj_480
+    2300002: books_obj_481
+    2300004: books_obj_482
+    2300006: books_obj_483
+    2300008: books_obj_484
+    2300010: books_obj_485
+    2300012: books_obj_486
+    2300014: books_obj_487
+    2300016: books_obj_488
+    2300018: books_obj_489
+    2300020: books_obj_490
+    2300022: books_obj_491
+    2300024: books_obj_492
+    3300000: books_obj_480
+    3300002: books_obj_481
+    3300004: books_obj_482
+    3300006: books_obj_483
+    3300008: books_obj_484
+    3300010: books_obj_485
+    3300012: books_obj_486
+    3300014: books_obj_487
+    3300016: books_obj_488
+    3300018: books_obj_489
+    3300020: books_obj_490
+    3300022: books_obj_491
+    3300024: books_obj_492
+    4300000: books_obj_480
+    4300002: books_obj_481
+    4300004: books_obj_482
+    4300006: books_obj_483
+    4300008: books_obj_484
+    4300010: books_obj_485
+    4300012: books_obj_486
+    4300014: books_obj_487
+    4300016: books_obj_488
+    4300018: books_obj_489
+    4300020: books_obj_490
+    4300022: books_obj_491
+    4300024: books_obj_492
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

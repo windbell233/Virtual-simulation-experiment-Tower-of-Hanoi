@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hannuota-alone.Plugins", "Hannuota-alone.Plugins.csproj", "{CC25CE63-5968-381A-6C17-21C465380527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hannuota-alone", "Hannuota-alone.csproj", "{CCAAA593-893C-35BD-07E5-9F3B2F1AD68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hannuota-alone.Editor", "Hannuota-alone.Editor.csproj", "{EC02D90F-A6C8-D3AC-3CDA-E26BBBF3F730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC25CE63-5968-381A-6C17-21C465380527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC25CE63-5968-381A-6C17-21C465380527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC25CE63-5968-381A-6C17-21C465380527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC25CE63-5968-381A-6C17-21C465380527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAAA593-893C-35BD-07E5-9F3B2F1AD68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAAA593-893C-35BD-07E5-9F3B2F1AD68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAAA593-893C-35BD-07E5-9F3B2F1AD68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAAA593-893C-35BD-07E5-9F3B2F1AD68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC02D90F-A6C8-D3AC-3CDA-E26BBBF3F730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC02D90F-A6C8-D3AC-3CDA-E26BBBF3F730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC02D90F-A6C8-D3AC-3CDA-E26BBBF3F730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC02D90F-A6C8-D3AC-3CDA-E26BBBF3F730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
